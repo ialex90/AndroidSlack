@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  link = 'https://join.slack.com/t/aprendiendo-android/shared_invite/enQtMjcxMTczMTcwMjczLTk4N2EzYjRmMDk0YzY1MzBiODk1MTU1YTlmMzhkZDkyMzUxNmM3ZDlkNGMwMWQ3ZDgzZTVlNjAxOWQ4Y2NjOTA';
+  link = 'https://join.slack.com/t/aprendiendo-android/shared_invite/enQtMjg1NzA4OTk2Nzg4LTkzMDUzN2MwODdkN2ExNDVhMjkwYmY1ZDZmMjRiNmM0YTZhY2UxNDMwMzE5ZGU2NDAxNWUwNDUyMGRlZjNjYjc';
 }
